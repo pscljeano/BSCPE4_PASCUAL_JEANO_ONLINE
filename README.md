@@ -1,9 +1,6 @@
 # BSCPE4_PASCUAL_JEANO_ONLINE
 
-#include <iostream>
-using namespace std;
-
-int main() {
-  cout << "Hello World!";
-  return 0;
-}
+NAME: PASCUAL JEANO
+AGE:24 
+ADDRESS:GAPAN CITY
+STUDENT NO.:21-1194-168
